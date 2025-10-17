@@ -1,6 +1,6 @@
 require('dotenv').config()
 const mongoose = require('mongoose');
-let ConnectionString = "mongodb+srv://dbAdmin:pcQBT6CTg13ZPvMy@cluster004.spyyzb6.mongodb.net/midterm?retryWrites=true&w=majority"
+let ConnectionString = "mongodb+srv://mohammed94175_db_user:Abdullah78694175!@portfolio.nskxdsg.mongodb.net/"
 
 module.exports = function(){
 
